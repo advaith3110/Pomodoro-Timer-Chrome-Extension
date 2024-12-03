@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 20px;
+}
+
+h1 {
+  color: #ff6347;
+}
+
+.timer-input {
+  margin: 20px 0;
+}
+
+.timer {
+  font-size: 2em;
+  margin: 20px 0;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+#start-timer {
+  background-color: #4caf50;
+  color: white;
+}
+
+#reset-timer {
+  background-color: #f44336;
+  color: white;
+}
+
+#set-timer {
+  background-color: #2196f3;
+  color: white;
+}
